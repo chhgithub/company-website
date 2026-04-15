@@ -7,9 +7,10 @@ import { ReactNode } from 'react';
 type Props = {
   children: ReactNode;
   href: string;
+  className?: string;
 };
 
-export function Link({ children, href }: Props) {
+export function Link({ children, href, className }: Props) {
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
@@ -20,7 +21,7 @@ export function Link({ children, href }: Props) {
   };
 
   return (
-    <a href={href} onClick={handleClick}>
+    <a href={href} onClick={handleClick} className={className}>
       {children}
     </a>
   );
