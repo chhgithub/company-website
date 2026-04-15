@@ -1,0 +1,243 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "服务&案例",
+    "products": "产品",
+    "contact": "联系我们"
+  },
+  "common": {
+    "footer": {
+      "copyright": "© 2026 南京翔高软件科技有限公司 版权所有"
+    },
+    "learnMore": "了解更多"
+  },
+  "home": {
+    "hero": {
+      "title": "创新您的数字未来",
+      "subtitle": "南京翔高软件科技有限公司",
+      "tagline": "专业软件开发解决方案"
+    },
+    "features": {
+      "title": "为什么选择我们",
+      "expertise": {
+        "title": "技术卓越",
+        "description": "精通前沿技术的专家团队"
+      },
+      "custom": {
+        "title": "定制方案",
+        "description": "为您独特需求量身定制软件"
+      },
+      "global": {
+        "title": "全球视野",
+        "description": "以国际标准服务全球客户"
+      },
+      "quality": {
+        "title": "质量驱动",
+        "description": "严格的测试和质量保证流程"
+      }
+    },
+    "services": {
+      "title": "我们的专长",
+      "web": "Web开发",
+      "mobile": "移动解决方案",
+      "enterprise": "企业系统",
+      "cloud": "云与DevOps",
+      "iot": "物联网与硬件"
+    },
+    "partners": {
+      "title": "值得信赖的合作伙伴",
+      "companies": [
+        "微软",
+        "谷歌",
+        "亚马逊",
+        "阿里巴巴",
+        "腾讯",
+        "华为"
+      ]
+    },
+    "cta": {
+      "contact": "联系我们",
+      "projects": "查看案例"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "关于我们",
+      "subtitle": "通过技术创造价值"
+    },
+    "intro": {
+      "title": "我们是谁",
+      "description": "南京翔高软件科技有限公司是一家领先的软件开发公司，致力于为全球企业提供创新的数字解决方案。我们拥有经验丰富的工程师和设计师团队，将创意转化为强大的软件产品。"
+    },
+    "mission": {
+      "title": "我们的使命",
+      "description": "通过尖端软件解决方案赋能企业，推动数字时代的增长与创新"
+    },
+    "vision": {
+      "title": "我们的愿景",
+      "description": "成为值得信赖的全球技术合作伙伴，以卓越和创新的软件开发服务著称"
+    },
+    "values": {
+      "title": "我们的价值观",
+      "innovation": "创新",
+      "excellence": "卓越",
+      "integrity": "诚信",
+      "collaboration": "协作"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "服务&案例",
+      "subtitle": "全面的软件解决方案及案例"
+    },
+    "casesTitle": "项目案例",
+    "cases": "个项目",
+    "backToServices": "返回服务",
+    "noCases": "暂无案例",
+    "noCasesDesc": "我们正在努力打造更多精彩项目，敬请期待",
+    "ctaTitle": "准备开始您的项目了吗？",
+    "ctaDesc": "让我们讨论如何帮助您实现愿景",
+    "web": {
+      "title": "Web应用开发",
+      "description": "使用最新技术构建现代化、可扩展的Web应用",
+      "items": ["定制Web应用", "渐进式Web应用", "电子商务平台", "API开发"],
+      "cases": [
+        {
+          "name": "电商平台",
+          "description": "功能完善的在线购物平台，集成多种支付方式",
+          "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+          "fullDescription": "为某知名品牌打造的全渠道电商解决方案，支持B2C和B2B模式。集成了商品管理、订单处理、会员系统、营销促销、数据分析等核心功能。支持微信支付、支付宝等多种支付方式，日均订单处理量达10万+。",
+          "client": "某知名零售品牌",
+          "timeline": "2024年",
+          "technologies": ["React", "Next.js", "Node.js", "MongoDB", "Redis"]
+        },
+        {
+          "name": "企业数据看板",
+          "description": "实时商业智能和数据分析仪表盘",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
+          "fullDescription": "为大型制造企业定制开发的商业智能平台，整合了ERP、CRM、供应链等多个系统的数据。提供实时数据可视化、自定义报表、预测分析等功能，帮助企业决策层快速洞察业务状况，提升决策效率30%。",
+          "client": "某制造企业",
+          "timeline": "2024年",
+          "technologies": ["Vue.js", "ECharts", "Python", "PostgreSQL", "Apache Kafka"]
+        }
+      ]
+    },
+    "mobile": {
+      "title": "移动开发",
+      "description": "iOS和Android原生及跨平台移动应用",
+      "items": ["iOS应用", "Android应用", "React Native", "Flutter应用"],
+      "cases": [
+        {
+          "name": "健身追踪应用",
+          "description": "跨平台健康和健身追踪应用",
+          "image": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=800&h=600&fit=crop",
+          "fullDescription": "一款集运动追踪、饮食记录、健康数据分析于一体的跨平台健身应用。支持iOS和Android系统，集成可穿戴设备数据同步功能。拥有超过50万活跃用户，应用商店评分4.8星。",
+          "client": "某健康科技公司",
+          "timeline": "2023年",
+          "technologies": ["React Native", "Firebase", "Node.js", "MongoDB"]
+        },
+        {
+          "name": "社交应用",
+          "description": "功能丰富的社交网络移动应用",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop",
+          "fullDescription": "面向年轻群体的垂直社交平台，支持图文动态、短视频、直播互动、兴趣圈子等功能。采用实时通讯技术，支持百万级并发用户。上线半年用户突破100万。",
+          "client": "某互联网创业公司",
+          "timeline": "2024年",
+          "technologies": ["Flutter", "Dart", "WebSocket", "Redis", "MySQL"]
+        }
+      ]
+    },
+    "enterprise": {
+      "title": "企业解决方案",
+      "description": "强大的企业级系统和平台",
+      "items": ["ERP系统", "CRM平台", "商业智能", "工作流自动化"],
+      "cases": [
+        {
+          "name": "制造业ERP系统",
+          "description": "全面的企业资源规划管理系统",
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop",
+          "fullDescription": "为中型制造企业定制的全功能ERP系统，涵盖采购、库存、生产、销售、财务、人力资源等核心业务模块。实现业务流程全数字化管理，提升生产效率25%，降低库存成本30%。",
+          "client": "某制造企业",
+          "timeline": "2023-2024年",
+          "technologies": ["Java", "Spring Boot", "MySQL", "Redis", "Vue.js"]
+        }
+      ]
+    },
+    "cloud": {
+      "title": "云与DevOps",
+      "description": "云基础设施和现代DevOps实践",
+      "items": ["云架构", "CI/CD管道", "微服务", "容器编排"],
+      "cases": [
+        {
+          "name": "云迁移项目",
+          "description": "成功将传统系统迁移至云基础设施",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop",
+          "fullDescription": "帮助金融企业将核心业务系统从传统IDC机房迁移至阿里云。包括系统架构设计、容器化改造、CI/CD流水线搭建等。实现了99.99%的系统可用性，运维成本降低40%。",
+          "client": "某金融企业",
+          "timeline": "2024年",
+          "technologies": ["Kubernetes", "Docker", "Jenkins", "Terraform", "Prometheus"]
+        }
+      ]
+    },
+    "iot": {
+      "title": "物联网与硬件对接",
+      "description": "提供端到端物联网解决方案，专注于硬件设备深度集成",
+      "techStack": ["MQTT", "Modbus", "OPC UA", "RS485", "TCP/IP", "串口通信"],
+      "cases": [
+        {
+          "name": "智慧工厂",
+          "description": "制造业自动化的工业物联网解决方案",
+          "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&h=600&fit=crop",
+          "fullDescription": "为汽车制造企业打造的智能工厂解决方案，集成1000+传感器设备，实现生产设备状态实时监控、故障预测、能耗管理。通过数据分析和AI算法，提升生产效率15%，降低设备故障率50%。",
+          "client": "某汽车制造企业",
+          "timeline": "2023-2024年",
+          "technologies": ["MQTT", "Kafka", "InfluxDB", "Grafana", "Python", "Modbus"]
+        },
+        {
+          "name": "环境监测系统",
+          "description": "实时环境传感器数据采集系统",
+          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+          "fullDescription": "为环保部门开发的城市环境监测系统，部署超过200个监测站点，实时采集空气质量、噪音、水质等数据。支持数据可视化大屏展示、超标告警、数据报表生成等功能。",
+          "client": "某市环保局",
+          "timeline": "2024年",
+          "technologies": ["MQTT", "OPC UA", "PostgreSQL", "React", "Node.js", "WebSocket"]
+        }
+      ]
+    }
+  },
+  "products": {
+    "hero": {
+      "title": "产品",
+      "subtitle": "创新解决方案"
+    },
+    "comingSoon": "更多创新产品即将推出"
+  },
+  "contact": {
+    "hero": {
+      "title": "联系我们",
+      "subtitle": "让我们一起创造卓越"
+    },
+    "offices": {
+      "title": "我们的办公室",
+      "headquarters": {
+        "city": "中国南京",
+        "label": "总部"
+      }
+    },
+    "email": {
+      "title": "联系我们",
+      "general": "一般咨询",
+      "business": "商务合作",
+      "careers": "招聘机会"
+    },
+    "companyName": "南京翔高软件科技有限公司",
+    "social": {
+      "title": "关注我们",
+      "instagram": "Instagram",
+      "twitter": "X (Twitter)",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    }
+  }
+}

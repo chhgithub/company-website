@@ -1,0 +1,243 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services & Cases",
+    "products": "Products",
+    "contact": "Contact Us"
+  },
+  "common": {
+    "footer": {
+      "copyright": "© 2026 Nanjing Flyhigh Software Technology Co., Ltd. All rights reserved"
+    },
+    "learnMore": "Learn More"
+  },
+  "home": {
+    "hero": {
+      "title": "Innovating Your Digital Future",
+      "subtitle": "Nanjing Flyhigh Software Technology Co., Ltd.",
+      "tagline": "Professional Software Development Solutions"
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "expertise": {
+        "title": "Technical Excellence",
+        "description": "Expert team proficient in cutting-edge technologies"
+      },
+      "custom": {
+        "title": "Tailored Solutions",
+        "description": "Custom software designed for your unique needs"
+      },
+      "global": {
+        "title": "Global Perspective",
+        "description": "Serving clients worldwide with international standards"
+      },
+      "quality": {
+        "title": "Quality Driven",
+        "description": "Rigorous testing and quality assurance processes"
+      }
+    },
+    "services": {
+      "title": "Our Expertise",
+      "web": "Web Development",
+      "mobile": "Mobile Solutions",
+      "enterprise": "Enterprise Systems",
+      "cloud": "Cloud & DevOps",
+      "iot": "IoT & Hardware"
+    },
+    "partners": {
+      "title": "Trusted Partners",
+      "companies": [
+        "Microsoft",
+        "Google",
+        "Amazon",
+        "Alibaba",
+        "Tencent",
+        "Huawei"
+      ]
+    },
+    "cta": {
+      "contact": "Get in Touch",
+      "projects": "View Our Work"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Us",
+      "subtitle": "Building Value Through Technology"
+    },
+    "intro": {
+      "title": "Who We Are",
+      "description": "Nanjing Flyhigh Software Technology Co., Ltd. is a leading software development company dedicated to delivering innovative digital solutions for businesses worldwide. With a team of experienced engineers and designers, we transform ideas into powerful software products."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower businesses with cutting-edge software solutions that drive growth and innovation in the digital age"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be a trusted global technology partner, recognized for excellence and innovation in software development"
+    },
+    "values": {
+      "title": "Our Values",
+      "innovation": "Innovation",
+      "excellence": "Excellence",
+      "integrity": "Integrity",
+      "collaboration": "Collaboration"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Services & Cases",
+      "subtitle": "Comprehensive Software Solutions & Cases"
+    },
+    "casesTitle": "Project Cases",
+    "cases": "Cases",
+    "backToServices": "Back to Services",
+    "noCases": "No Cases Yet",
+    "noCasesDesc": "We're working on exciting projects. Check back soon!",
+    "ctaTitle": "Ready to Start Your Project?",
+    "ctaDesc": "Let's discuss how we can help bring your vision to life",
+    "web": {
+      "title": "Web Application Development",
+      "description": "Modern, scalable web applications built with the latest technologies",
+      "items": ["Custom Web Apps", "Progressive Web Apps", "E-commerce Platforms", "API Development"],
+      "cases": [
+        {
+          "name": "E-commerce Platform",
+          "description": "Full-featured online shopping platform with payment integration",
+          "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+          "fullDescription": "A comprehensive omni-channel e-commerce solution for a renowned brand, supporting both B2C and B2B models. Integrated features include product management, order processing, membership system, marketing promotions, and data analytics. Supports WeChat Pay, Alipay, and multiple payment methods, processing 100K+ daily orders.",
+          "client": "Leading Retail Brand",
+          "timeline": "2024",
+          "technologies": ["React", "Next.js", "Node.js", "MongoDB", "Redis"]
+        },
+        {
+          "name": "Enterprise Dashboard",
+          "description": "Real-time business intelligence and analytics dashboard",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
+          "fullDescription": "Custom business intelligence platform for a large manufacturing enterprise, integrating data from ERP, CRM, and supply chain systems. Provides real-time data visualization, custom reports, and predictive analytics, helping decision-makers quickly gain business insights and improve decision-making efficiency by 30%.",
+          "client": "Manufacturing Enterprise",
+          "timeline": "2024",
+          "technologies": ["Vue.js", "ECharts", "Python", "PostgreSQL", "Apache Kafka"]
+        }
+      ]
+    },
+    "mobile": {
+      "title": "Mobile Development",
+      "description": "Native and cross-platform mobile applications for iOS and Android",
+      "items": ["iOS Apps", "Android Apps", "React Native", "Flutter Apps"],
+      "cases": [
+        {
+          "name": "Fitness Tracking App",
+          "description": "Cross-platform health and fitness tracking application",
+          "image": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=800&h=600&fit=crop",
+          "fullDescription": "A cross-platform fitness app combining workout tracking, diet logging, and health data analytics. Supports both iOS and Android, integrates with wearable device data sync. Has over 500K active users with 4.8-star app store rating.",
+          "client": "Health Tech Company",
+          "timeline": "2023",
+          "technologies": ["React Native", "Firebase", "Node.js", "MongoDB"]
+        },
+        {
+          "name": "Social Media App",
+          "description": "Feature-rich social networking mobile application",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop",
+          "fullDescription": "Vertical social platform for young demographics, supporting photo/video posts, live streaming, interest groups, and real-time messaging. Built with real-time communication technology, supporting millions of concurrent users. Reached 1M users within 6 months of launch.",
+          "client": "Tech Startup",
+          "timeline": "2024",
+          "technologies": ["Flutter", "Dart", "WebSocket", "Redis", "MySQL"]
+        }
+      ]
+    },
+    "enterprise": {
+      "title": "Enterprise Solutions",
+      "description": "Robust enterprise-grade systems and platforms",
+      "items": ["ERP Systems", "CRM Platforms", "Business Intelligence", "Workflow Automation"],
+      "cases": [
+        {
+          "name": "Manufacturing ERP",
+          "description": "Comprehensive enterprise resource planning system",
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop",
+          "fullDescription": "Custom full-featured ERP system for a medium-sized manufacturing enterprise, covering procurement, inventory, production, sales, finance, and HR modules. Achieves full digitalization of business processes, increasing production efficiency by 25% and reducing inventory costs by 30%.",
+          "client": "Manufacturing Enterprise",
+          "timeline": "2023-2024",
+          "technologies": ["Java", "Spring Boot", "MySQL", "Redis", "Vue.js"]
+        }
+      ]
+    },
+    "cloud": {
+      "title": "Cloud & DevOps",
+      "description": "Cloud infrastructure and modern DevOps practices",
+      "items": ["Cloud Architecture", "CI/CD Pipelines", "Microservices", "Container Orchestration"],
+      "cases": [
+        {
+          "name": "Cloud Migration",
+          "description": "Successfully migrated legacy systems to cloud infrastructure",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop",
+          "fullDescription": "Helped a financial enterprise migrate core business systems from traditional IDC to Alibaba Cloud. Included system architecture design, containerization, and CI/CD pipeline setup. Achieved 99.99% system availability and reduced operational costs by 40%.",
+          "client": "Financial Enterprise",
+          "timeline": "2024",
+          "technologies": ["Kubernetes", "Docker", "Jenkins", "Terraform", "Prometheus"]
+        }
+      ]
+    },
+    "iot": {
+      "title": "IoT & Hardware Integration",
+      "description": "End-to-end IoT solutions with deep hardware device integration",
+      "techStack": ["MQTT", "Modbus", "OPC UA", "RS485", "TCP/IP", "Serial Port"],
+      "cases": [
+        {
+          "name": "Smart Factory",
+          "description": "Industrial IoT solution for manufacturing automation",
+          "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&h=600&fit=crop",
+          "fullDescription": "Intelligent factory solution for an automotive manufacturer, integrating 1000+ sensor devices for real-time equipment monitoring, fault prediction, and energy management. Through data analytics and AI algorithms, achieved 15% production efficiency improvement and 50% equipment failure rate reduction.",
+          "client": "Automotive Manufacturer",
+          "timeline": "2023-2024",
+          "technologies": ["MQTT", "Kafka", "InfluxDB", "Grafana", "Python", "Modbus"]
+        },
+        {
+          "name": "Environmental Monitoring",
+          "description": "Real-time environmental sensors data collection system",
+          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+          "fullDescription": "Urban environmental monitoring system for the Environmental Protection Bureau, deploying over 200 monitoring stations to collect real-time air quality, noise, and water quality data. Features data visualization dashboards, threshold alerts, and automated report generation.",
+          "client": "City EPA",
+          "timeline": "2024",
+          "technologies": ["MQTT", "OPC UA", "PostgreSQL", "React", "Node.js", "WebSocket"]
+        }
+      ]
+    }
+  },
+  "products": {
+    "hero": {
+      "title": "Products",
+      "subtitle": "Innovative Solutions"
+    },
+    "comingSoon": "More innovative products coming soon"
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Let's Build Something Great Together"
+    },
+    "offices": {
+      "title": "Our Office",
+      "headquarters": {
+        "city": "Nanjing, China",
+        "label": "Headquarters"
+      }
+    },
+    "email": {
+      "title": "Get in Touch",
+      "general": "General Inquiries",
+      "business": "Business Inquiries",
+      "careers": "Career Opportunities"
+    },
+    "companyName": "Nanjing Flyhigh Software Technology Co., Ltd.",
+    "social": {
+      "title": "Follow Us",
+      "instagram": "Instagram",
+      "twitter": "X (Twitter)",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    }
+  }
+}
