@@ -8,9 +8,10 @@ type Props = {
   children: ReactNode;
   href: string;
   className?: string;
+  onClick?: () => void;
 };
 
-export function Link({ children, href, className }: Props) {
+export function Link({ children, href, className, onClick }: Props) {
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
@@ -18,6 +19,8 @@ export function Link({ children, href, className }: Props) {
   const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
     e.preventDefault();
     router.push(href);
+    // Call external onClick if provided
+    onClick?.();
   };
 
   return (
